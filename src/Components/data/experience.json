@@ -1,0 +1,16 @@
+[
+
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "Nebula",
+    "startDate": "Mar, 2024",
+    "endDate": "Jun, 2024",
+    "location": "Pune, India",
+    "experiences": [
+      "Worked on Project as a Software Developer",
+      "Helped to create UI for Applications"
+    ],
+    "imageSrc": "company/Nlogo.jpg"
+  }
+]
