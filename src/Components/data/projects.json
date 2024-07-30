@@ -2,7 +2,7 @@
   {
     "key": 1,
     "title": "Home Services-App",
-    "imageSrc": "public/assets/project/HomeServices.jpeg",
+    "imageSrc": "assets/project/HomeServices.jpeg",
     "description": "This is a project made with complete React js.",
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
@@ -10,7 +10,7 @@
   {
     "key": 2,
     "title": "Animation",
-    "imageSrc": "public/assets/project/viratanimation.jpeg",
+    "imageSrc": "assets/project/viratanimation.jpeg",
     "description": "This is a project made with complete Html5,Css and Js ",
     "demo": "https://pratham-3326.github.io/ViratKohliAnimation/",
     "source": "https://github.com/Pratham-3326/ViratKohliAnimation"
@@ -18,7 +18,7 @@
   {
     "key": 3,
     "title": "Simple Portfolio",
-    "imageSrc": "public/assets/project/portfoliohtml.jpeg",
+    "imageSrc": "assets/project/portfoliohtml.jpeg",
     "description": "This is a project made with complete Html5 and Css ",
     "demo": "https://pratham-3326.github.io/pratham/",
     "source": "https://github.com/Pratham-3326/pratham"
@@ -26,7 +26,7 @@
   {
     "key": 4,
     "title": "To-Do List",
-    "imageSrc": "public/assets/project/todolist.jpeg",
+    "imageSrc": "assets/project/todolist.jpeg",
     "description": "This is a project made with complete Html5,Css and Js ",
     "demo": "https://pratham-3326.github.io/To-Do-List/",
     "source": "https://github.com/Pratham-3326/To-Do-List"
