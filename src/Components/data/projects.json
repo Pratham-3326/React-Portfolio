@@ -25,10 +25,10 @@
   },
   {
     "key": 4,
-    "title": "To-Do List",
-    "imageSrc": "assets/project/todolist.jpeg",
-    "description": "This is a project made with complete Html5,Css and Js ",
-    "demo": "https://pratham-3326.github.io/To-Do-List/",
-    "source": "https://github.com/Pratham-3326/To-Do-List"
+    "title": "Food-App",
+    "imageSrc": "assets/project/Tastyburger.jpeg",
+    "description": "This is a project made with complete React.js and Bootstrap5",
+    "demo": "https://food-app-react-henna.vercel.app/",
+    "source": "https://github.com/Pratham-3326/food-app_React"
   }
 ]
